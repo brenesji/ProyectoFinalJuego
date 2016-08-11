@@ -1,0 +1,6 @@
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\SokobanConsola\SokobanConsola\bin\Debug\SokobanConsola.exe.config
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\SokobanConsola\SokobanConsola\obj\Debug\SokobanConsola.csprojResolveAssemblyReference.cache
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\SokobanConsola\SokobanConsola\bin\Debug\SokobanConsola.exe
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\SokobanConsola\SokobanConsola\bin\Debug\SokobanConsola.pdb
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\SokobanConsola\SokobanConsola\obj\Debug\SokobanConsola.exe
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\SokobanConsola\SokobanConsola\obj\Debug\SokobanConsola.pdb
